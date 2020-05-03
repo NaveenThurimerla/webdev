@@ -2,12 +2,20 @@ body
 {
     background-color: lightskyblue;
 }
-
 header
 {
     background-color: orange;
 }
 
+main
+{
+    background-color: darkgray;
+}
+footer
+{
+    background-color: yellow;
+    text-align: center;
+}
 
 .container
 {
@@ -19,13 +27,8 @@ header
 .element-info
 {
     color: black; /* Text Color Change */
-    background-color: lightblue;
+    background-color: floralwhite;
     font-family: "Times New Roman";
-}
-footer
-{
-    text-align: center;
-
 }
 
 
