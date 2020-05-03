@@ -3,7 +3,14 @@ body
     background-color: white;
 }
 
-.code-info
+.container
+{
+    display: grid;
+    grid-template-columns: repeat(25,auto);
+    grid-template-rows: repeat(1, auto);
+}
+
+.element-info
 {
     color: black; /* Text Color Change */
     background-color: lightblue;
