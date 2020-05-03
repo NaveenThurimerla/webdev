@@ -6,7 +6,13 @@ body
 .code-info
 {
     color: black; /* Text Color Change */
-    background-color: yellow;
+    background-color: lightblue;
+    font-family: "Times New Roman";
+}
+footer
+{
+    text-align: center;
+
 }
 
 
