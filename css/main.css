@@ -20,7 +20,7 @@ footer
 .container
 {
     display: grid;
-    grid-template-columns: repeat(2,auto);
+    grid-template-columns: repeat(20,auto);
     grid-template-rows: repeat(1, auto);
 }
 
